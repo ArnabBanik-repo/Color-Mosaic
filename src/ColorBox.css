@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ColorBox{
+    height: 10rem;
+    width: 10rem;
+    cursor:pointer;
+    transition: all ease-in-out 400ms;
+}
